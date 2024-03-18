@@ -1,0 +1,56 @@
+Beetroot Academy
+QA Manual Course 
+Jan 2024 - March 2024
+Daniel Clapa
+
+Homework 02 by for 26 Jan 2024, Lesson: SDLC STLC Methods 
+Beet Seed  — get the basic skills down.
+Make a comparative table of the most common methodologies. In your answer, support your opinion on why a given strength/weakness/appropriate field of application is proper for the methodology.
+No.
+Name
+Pros / strength
+Cons / weakness
+Industry, appropriate
+1
+Waterfall 
+Rigorous, strict, super structured and methodical. Needs less coordination.
+Inflexible, costly, time-consuming, testing is done only at the end of the analysis /design and development stages. Testing is not even developed in parallel to the Analysis/Design and Development phases.
+Medical, space travel, military, government
+2
+V-Model
+Testing preparation runs in parallel to the analysis and design phases. So, once all analysis and design phases are completed, testing can start right away and waste any time in preparing them. Thorough/proactive testing for each stage. Easy to manage. Disciplined. 
+Less flexible than Iterative models. 
+Critical systems, aerospace, defense systems, 
+3
+Iterative 
+Adaptable, velocity, flexible, resilient. Partial software is produced early. 
+Needs a lot of coordination. Fast delivery. Prioritize customer feedback. Allows for changes. Allows for imperfect ambiguous specifications.
+Web dev, e-commerce, mobile apps
+4
+Incremental
+Early delivery of functional software. Allows for the expansion and improvement of functionality. 
+Needs a lot of coordination. 
+Web dev, e-commerce, mobile apps
+5
+Spiral
+Can handle risks well. Software is produced early. For big projects.
+Complex. 
+Automotive. 
+
+Beet Sprout — dive deeper into practice.
+Complete the task of the previous level.
+Write detailed answers (0.5-1 pages in volume) to the following two questions:
+In your opinion, why did the Agile manifesto appear? 
+What problems did it have to solve and did it succeed?
+Why did the Agile manifesto appear?
+In my opinion, the Agile manifesto appeared because there were multiple newer approaches (Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming) to software development that attempted to simplify and improve it from the monolithic waterfall method. And the different people who created these approaches wanted see if they could place them under one umbrella and make this a one unified movement to help move along their dream for better software development across the industry.
+What problems did it have to solve and did it succeed?
+From just an initial reading of the history of the Agile Manifesto, one problem that it tried to solve was that before the time the Agile Manifesto was created, the way software was created was driven by extensive documentation and “heavyweight software development  processes.” From the second point of the Manifesto itself, which says that we value “working software” more than “comprehensive documentation,” we can deduce that the problem was that this propensity toward a lot of documentation was getting in the way of developing software in a efficient manner. 
+	We can further infer, also by just looking at the Manifesto itself, that other problems it tried to solve were that previous methodologies tended to value “processes and tools" over people as individuals and their interactions, as well as “contract negotiations,” which implies a more closed-off process to customer interactions, over “customer collaboration” and interactions. It is interesting that the first point of the Manifesto (valuing “individuals and interactions over processes and tools”) is related to the third point so that interactions among people does not refer only to those between software developers or testers and their managers, but also between customers and the representatives of the software development firms. 
+	One more inference we can draw by looking at the Manifesto itself is that another problem it tried to have was that previous methodologies tended to value “following a plan” strictly and, probably, blindly over “responding to change.” This change likely refers to change in a client’s understanding of their needs, or of the consumers it tried to make a software product for, or even of the market and what it was demanding and looking for in a software product over the period of time it was taking to develop it.
+	Whether the Agile Manifesto succeed in its striving to solve these problems likely requires a subjective answer, one that need a deeper knowledge of what companies have done with Agile methodologies, and how they have actually been implemented. I cannot speak to this since I don’t have much experience or knowledge about this. But, if we speak on the surface, of the absorption of these types of methodologies in the business and corporate world, it definitely seems like Agile has taken over. And as a result, in this sense, it has succeeded, at least in name or form. I certainly hope that in spirit the Agile methodologies have succeeded since they value people as being most important when working to deliver “good products to customers.”
+Mighty Beet: get an all-round topics coverage by completing level three of the home assignment:
+Complete the tasks of the previous two levels.
+You are the founder of a startup planning to launch a mobile application for sharing cat photos.
+What methodology will you choose for the development process and why? Support your answer. 
+I would select the iterative methodology for the development process of our mobile app because it is well suited for mobile apps with low to medium complexity as well as low critical compliance.
